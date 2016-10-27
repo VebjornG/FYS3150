@@ -1,2 +1,2 @@
 # FYS3150
-Projects in Computational Physics
+This repository contains projects in Computational Physics where I simulate physical phenomena.
